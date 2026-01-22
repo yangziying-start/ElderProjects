@@ -1,0 +1,25 @@
+{
+  "name": "elderly-admin",
+  "version": "1.0.0",
+  "description": "适老化社区服务平台管理后台",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.13",
+    "vue-router": "^4.2.5",
+    "pinia": "^2.1.7",
+    "element-plus": "^2.4.4",
+    "axios": "^1.6.2",
+    "@element-plus/icons-vue": "^2.3.1",
+    "echarts": "^5.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^4.5.2",
+    "sass": "^1.69.5"
+  }
+}
